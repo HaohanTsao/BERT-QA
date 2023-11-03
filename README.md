@@ -2,7 +2,7 @@
 
 Fine-tune BERT for Chinese QA
 
-Exact accuracy: 82.4%
+Exact accuracy: 82.4%.
 
 ## Data Source
 DRCD:
